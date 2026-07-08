@@ -45,9 +45,30 @@ Elle permet de gérer les clients, les rendez-vous et les factures depuis une in
 
 ## 📦 Installation
 
+
 Cloner le projet :
 bash
 git clone https://github.com/VOTRE_COMPTE/EasyGestion.git
+
+
+Entrer dans le dossier :
+cd EasyGestion
+
+Installer les dépendances :
+pip install -r requirements.txt
+
+▶️ Lancement
+
+Démarrer l'application :
+streamlit run easygestion.py
+
+
+L'application sera disponible sur :
+
+http://localhost:8501
+
+
+
 
 ```bash
 git clone https://github.com/VOTRE_COMPTE/EasyGestion.git
